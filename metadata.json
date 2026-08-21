@@ -1,0 +1,7 @@
+{
+  "name": "BreakBuddy - Screen Break Reminder & Wellness",
+  "description": "A mindful screen break companion with configurable intervals, ambient countdowns, guided stretch breaks, and daily focus analytics.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
